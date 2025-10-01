@@ -1,0 +1,16 @@
+{
+  "name": "Better YouTube",
+  "description": "Improves Youtube's UI",
+  "version": "6.9",
+  "manifest_version": 3,
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": "icon.png"
+  },
+  "content_scripts": [
+    {
+      "js": ["scripts/content.js"],
+      "matches": ["*://www.youtube.com/"]
+    }
+  ]
+}
