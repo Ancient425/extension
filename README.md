@@ -56,15 +56,15 @@ A Chrome extension that simplifies and enhances the YouTube homepage by removing
 
 ---
 
-## 🔮 Future Development Roadmap
+## 🔮 Features I Might Add
 
-| Feature                      | Description                                                  | Target Date   |
-|-----------------------------|--------------------------------------------------------------|----------------|
-| 🎨 Theme Selector           | Light/Dark/Minimal layout switching                          | Oct 15, 2025   |
-| 🔎 Search API Integration   | Functional search bar powered by YouTube Data API            | Oct 20, 2025   |
-| ⚙️ Settings Panel           | Popup for enabling/disabling extension features              | Oct 25, 2025   |
-| 📱 Mobile-Friendly Layout   | Adapt UI for touch screens and responsive design             | Nov 1, 2025    |
-| 🧠 Smart DOM Detection      | Improve reliability with dynamic element detection           | Nov 10, 2025   |
+| Feature                      | Description                                                  | 
+|----------------------------- |--------------------------------------------------------------|
+| 🎨 Theme Selector           | Light/Dark/Minimal layout switching                          | 
+| 🔎 Search API Integration   | Functional search bar powered by YouTube Data API            | 
+| ⚙️ Settings Panel           | Popup for enabling/disabling extension features              | 
+| 📱 Mobile-Friendly Layout   | Adapt UI for touch screens and responsive design             | 
+| 🧠 Smart DOM Detection      | Improve reliability with dynamic element detection           | 
 
 ---
 
@@ -76,19 +76,13 @@ A Chrome extension that simplifies and enhances the YouTube homepage by removing
 
 ---
 
-## 📄 License
-
-This extension is licensed under the [MIT License](LICENSE).
-
----
-
 ## 🙌 Contributions
 
 Feedback, suggestions, and pull requests are welcome. Please open an issue for any bugs or feature requests.
 
 ---
 
-## 🔗 Stay Focused, Browse Better.
+## 🔗 Stay Focused, Watch Better.
 
 A simpler YouTube starts here.
 
